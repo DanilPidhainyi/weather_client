@@ -1,0 +1,13 @@
+.container_temperature {
+    display: flex;
+    position: relative;
+    align-items: flex-end;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+.widget_header--tem {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
